@@ -287,7 +287,3 @@ LinkedIn:
 https://www.linkedin.com/in/mananchovatiya/
 
 ---
-
-## ⭐ Support
-
-If you found this project helpful, please consider giving it a ⭐ on GitHub.
