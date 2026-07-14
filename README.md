@@ -216,24 +216,6 @@ http://localhost:5050
 
 ---
 
-# 📸 Screenshots
-
-```
-screenshots/
-
-dashboard.png
-
-vehicles.png
-
-drivers.png
-
-maintenance.png
-
-reports.png
-```
-
----
-
 # 🚀 Future Enhancements
 
 - Email Notifications
@@ -285,5 +267,3 @@ https://github.com/Mananchovatiya
 
 LinkedIn:
 https://www.linkedin.com/in/mananchovatiya/
-
----
